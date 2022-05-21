@@ -1,0 +1,9 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(rgb(255, 110, 190),rgb(45, 206, 255));
+}
+
+h1 {
+    text-align: center;
+    color: purple;
+}
